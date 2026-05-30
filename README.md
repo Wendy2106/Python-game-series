@@ -9,12 +9,21 @@
 
 ### **Homework/ad2: Drawing the Olympic 5 rings symbol**  
   *by Turtle*
+  <p align="center">
+  <img src="demoPicture/ad2.png" width="300">
+</p>
 
 ### **Homework/ad3: Guess Number Game**  
   *by Tkinter and Random*
+  <p align="center">
+  <img src="demoPicture/ad3.png" width="300">
+</p>
 
 ### **Homework/ad4: Adjusting Color Game**  
   *by Tkinter, Random and Time*  
+  <p align="center">
+  <img src="demoPicture/ad4.png" width="200">
+</p>
   
   Random a color and try to adjusting true color as soon as posible
 
@@ -22,21 +31,33 @@
   *by Pygame, Random and Math*  
   
   The circle moves according to near and far vision, the square moves in a left-right-left direction, when the rectangle hits the edge of the window, the color of the circle changes
+  <p align="center">
+  <img src="demoPicture/ad5.png" width="400">
+</p>
 
 ### **Homework/ad6: Football Game**  
   *by Pygame, Random and Time*  
   
   Use the 4 W, A, S, D keys to control the pink circle representing the player kicking the ball and the goal; depending on the position you score, there will be corresponding high or low points. Time: 2 minutes
+<p align="center">
+  <img src="demoPicture/ad6.png" width="400">
+</p>
 
 ### **Homework/ad7: Skilled Ball Catcher**  
   *by Pygame, Random and Time*  
   
   Use clicks to move the rectangular basket to catch the falling colored balls. Catching a ball will change the color of the basket and gradually make the basket larger while adding 1 point. At the same time, the player must skillfully avoid empty balls bouncing up from below. If hit by an empty ball, the basket will become invisible for a period of time, creating an obstacle for the player. Time: 100s
+<p align="center">
+  <img src="demoPicture/ad7.png" width="400">
+</p>
 
 ### **ad8+9: Way Back Home**  
   *by Pygame, Random, Time and sound effects*  
   
   A game of chance-based adventure where players use the W, A, S, and D keys to navigate through various obstacles, where randomly placed hidden boxes contain either a heart or a bomb, affecting survival chances. The goal is to reach the housing area at the end of the map with at least one life remaining to win
+<p align="center">
+  <img src="demoPicture/ad8+9.png" width="400">
+</p>
 
 ### **game: The Haunted Land Heist**  
   *by Pygame, Time and sound effects*  
@@ -48,8 +69,11 @@ The game includes a start screen, a visual timeline that moves from left to righ
 A ghost patrols the area and begins a chase when players enter the Haunted Land, targeting the nearest player. Players collect coins and bring them back to their base, where the coins are automatically arranged into empty slots to create a neat layout.
 
 Quick reflexes, clever thieving skills, and survival abilities will determine who becomes the richest merchant.
-📸 *Screenshot*
-![gameplay](demoPicture/game.png)
+<p align="center">
+  <img src="demoPicture/menu.png" width="400">
+  <img src="demoPicture/game.png" width="400">
+  <img src="demoPicture/result.png" width="400">
+</p>
 
 ## 🚀 How to Run
 
